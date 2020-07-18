@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "528885793289",
+    "firebase_url": "https://myecc-d3c33.firebaseio.com",
+    "project_id": "myecc-d3c33",
+    "storage_bucket": "myecc-d3c33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528885793289:android:1e0b726debae99f5cbaed8",
+        "android_client_info": {
+          "package_name": "edu.xaviers.my_ecc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528885793289-3ddvf1l3fibq2ete4va8fmh6hfghf8q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEXwW7OTGHfnrYIkFi2bETs2wHshj5Xo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528885793289-3ddvf1l3fibq2ete4va8fmh6hfghf8q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
